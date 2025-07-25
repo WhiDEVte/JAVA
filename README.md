@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 2506_Java
 
 2025-07 자바수업
@@ -58,6 +57,3 @@ JAVA PROJECTS 탭의 Referenced Libraries 에서 + 클릭해서 추가합니다.
 - 10일차 :
   - 오전 : List 를 활용한 회원 관리 App 완성
   - 오후 : Set, Map. Map 활용 예시
-=======
-# JAVA
->>>>>>> 5808a0d34cd6251975a4d6ef19f573c14c34f195
